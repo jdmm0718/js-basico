@@ -44,3 +44,5 @@ String + String = String
 
 // Todos las propiedades de valor, son strings 
 
+// https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36
+// https://developer.mozilla.org/es/docs/Glossary/Hoisting
